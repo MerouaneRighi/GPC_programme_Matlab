@@ -13,4 +13,4 @@ Simple programme Command GPC
     [3]-Enter the values into the GPC_EF function to calculate the values for Fi and Ei
     Use the following command:<<gpc()
     Enter the function in matrix form, Example: A(z^-1)=1+z^-1+2z^-1 = [1 1 2]
-
+    ##############################################################################
