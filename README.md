@@ -7,7 +7,7 @@ Simple programme Command GPC
     to calculate the control <<U>> and predict the output that will be <<Y>>
     ***----------------------------------------------------------------------------------------***
     [+]How can I use the following program?Follow these steps:
-    [1]-Run the GPC function without entering any parameter>>use the following command:<<GPC()>>
+    [1]-Run the GPC function without entering any parameter>>use the following command:<<gpc()>>
     [2]-Choose whether you want a part of the solution and the ability to modify it
     or calculate using lights,or the automatic solution
     [3]-Enter the values into the GPC_EF function to calculate the values for Fi and Ei
